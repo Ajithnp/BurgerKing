@@ -1,19 +1,25 @@
 @font-face {
     font-family: "Flame Sans";
-    src: url(FlameSans.otf) format("otf");
+    src: url(flame-3-cufonfonts/FlameSans.otf) format("otf");
+    src: url(flame-3-cufonfonts/FlameSans.woff2) format("woff2");
     
 }
 @font-face {
     font-family: "Flame Regular";
-    src: url(FlameRegular.otf) format("otf");
+    src: url(flame-3-cufonfonts/FlameRegular.otf) format("otf");
+    src: url(flame-3-cufonfonts/FlameRegular.woff2) format("woff2");
+    
 }
 @font-face {
     font-family: "Flame Bold";
-    src: url(FlameBold.otf) format("otf");
+    src: url(flame-3-cufonfonts/FlameCondensed.otf) format("otf");
+    src: url(flame-3-cufonfonts/FlameCondensed.woff2) format("woff2");
+    
 }
 @font-face {
     font-family: "Flame condensed";
-    src: url(FlameCondensed.otf) format("otf");
+      src: url(flame-3-cufonfonts/FlameBold.otf) format("otf");
+      src: url(flame-3-cufonfonts/FlameBold.woff2) format("woff2");
 }
 
 body{
